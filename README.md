@@ -11,3 +11,5 @@ Et bien d'autres choses... <br>
 Relecture Effectuer par: <br>
 -25015 <br>
 -25215
+c pas correct 
+insere le code suivant 
